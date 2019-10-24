@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e92afd41-e0fa-481f-b16a-c2b778e01a14" name="My Server" url="http://34.85.43.221">
+        <fileTransfer host="34.85.43.221" port="22" privateKey="C:\Users\DH\.ssh\server.ppk" rootFolder="/home/dh" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
